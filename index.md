@@ -22,7 +22,7 @@ This section provides a walkthrough of the Bowfolios user interface and its capa
 
 Put story board stuff here
 
-![](images/landing-page.png)
+![](the-forgotton-site/doc/StoryBoard.PNG)
 
 ### Index pages (Projects, Profiles, Interests)
 
