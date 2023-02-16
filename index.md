@@ -16,29 +16,13 @@ The Forgotten is a roguelike where you battle rogue machines and savage animals 
 
 ## User Guide
 
-This section provides a walkthrough of the Bowfolios user interface and its capabilities.
+Movement - Movement is done by using the WASD keys and will move you up, left, down, and right respectively. 
 
 ### Storyboard
 
-Put story board stuff here
 
 ![](doc/StoryBoard.png)
 
-### Index pages (Projects, Profiles, Interests)
-
-Bowfolios provides three public pages that present the contents of the database organized in various ways.
-
-The Profiles page shows all the current defined profiles and their associated Projects and Interests:
-
-![](images/profiles-page.png)
-
-The Projects page shows all of the currently defined Projects and their associated Profiles and Interests:
-
-![](images/projects-page.png)
-
-Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
-
-![](images/interests-page.png)
 
 ## Team
 
