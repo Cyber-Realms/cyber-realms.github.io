@@ -1,9 +1,9 @@
-title:              Clean Blog
+title:              The Forgotten
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+author:             Cyber Realms
+baseurl:            "/home"
+url:                "https://cyber-realms.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
