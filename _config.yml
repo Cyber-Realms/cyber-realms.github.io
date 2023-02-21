@@ -1,14 +1,14 @@
 title:              The Forgotten
 email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+description:        2D Top Down Rogue Like
 author:             Cyber Realms
-baseurl:            "/home"
+baseurl:            ""
 url:                "https://cyber-realms.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
