@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Weekly Progress #6 - Prototype 1"
-subtitle: "Enemy Spawning and UI Development"
-background: '/img/posts/Prototype/Proto3.png'
+title: "Weekly Progress #7"
+subtitle: "UI And Sprite Design"
+background: '/img/spriteUI.png'
 ---
 
 

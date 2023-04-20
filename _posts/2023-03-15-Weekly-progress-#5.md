@@ -2,7 +2,7 @@
 layout: post
 title: "Weekly Progress #5"
 subtitle: "Camera Movement"
-background: '/img/posts/01.jpg'
+background: '/img/posts/Prototype/Proto2.png'
 ---
 
 

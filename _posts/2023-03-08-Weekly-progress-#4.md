@@ -2,7 +2,7 @@
 layout: post
 title: "Weekly Progress #4"
 subtitle: "Updating Character and Map Elements"
-background: '/img/posts/01.jpg'
+background: '/img/posts/Prototype/Proto1.png'
 ---
 
 

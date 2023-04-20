@@ -2,7 +2,7 @@
 layout: post
 title: "Weekly Progress #3"
 subtitle: "Adding Enemy Shot Patterns and Map Updates"
-background: '/img/posts/01.jpg'
+background: '/img/bg-map.png'
 ---
 
 
