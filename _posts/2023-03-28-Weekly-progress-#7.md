@@ -8,15 +8,11 @@ background: '/img/spriteUI.png'
 
 ## What We Did
 
-For this week, we thought of ways of implementing spawning methods for our enemies. We decided on spawning the enemies when the player gets teleported into the room. The doors would lock and the player would not be able to leave the room until clearing out the room. We also created a main menu for the game as well as a pause menu. Currently, the player is able to hit start to play the game and press quit to close the application. The pause menu has three buttons, resume, back to menu, and quit. Resume will resume the game. Pressing back to menu will return back to main menu, removing any progress made, and quitting will close the application. 
+For this week, we wanted to work on our UI as well as some sprites as we had very barebones graphics. Since we had a dash function, we wanted a way for the player to be able to see when they could dash and when they couldn't. We eventually settled on a dash bar on the bottom right that is filled up when the dash is ready. When the player dashes, it will deplete the bar and start filling back up. As for the health bar, we got a lot of feedback on whether or not the healthbar should be a heart system or a bar system. From the feedback, it seemed that a bar system would work much better with how the player gets hit with attacks. 
 
-In this current prototype, we have developed a smaller version of our first level with enemy spawners and a boss. The enemies have different attack patterns. The player has 20 health and will die when out of health. Currently we do not have a death screen but it will be implemented in the next update. However, restarting is still possible by hitting the escape key and going back to main menu. 
+Sprite were another aspect that we wanted to fix. The player sprite that we had was a very barebones model we got off of the unity store. As such, we got some help from some friends and they were able to provide a nice sprite with animations for us. The player model looks much better now.
+![](/img\posts\uiSample.png)
+UJ Example
 
-![](/img\posts\Prototype\Proto1.png)
-Spawn Room
-
-![](/img\posts\Prototype\Proto2.png)
-Enemies with attack patterns
-
-![](/img\posts\Prototype\Proto3.png)
+![](/img\posts\SpriteNGun.png)
 Boss with attack pattern
