@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prototype 1 Progress"
+title: "Weekly Progess #1"
 subtitle: "Progress throughout a few weeks of unity"
 background: '/img/posts/01.jpg'
 ---
@@ -12,15 +12,6 @@ The Forgotten is a 2D top down roguelike game following the story of an android 
 ## Gameplay
 
 The Forgotten is a roguelike where you battle rogue machines and savage animals to reclaim the lost technology. The user is able to pick up permanent power ups as you fight bosses without getting hit. However, there are temporary power ups that you can pick up. Weapons can be upgraded based on the floor and general stat upgrades or shot patterns can be changed. Throughout your journey within the facility, you will encounter a few people, namely the Shopkeeper, and the Genius Guy. The shopkeeper will sell items to you regardless of the quality of his items. The genius guy is your creator. Whenever you find yourself defeated within the facility, he will come and rebuild you. You must find his item no matter what. 
-
-## User Guide
-
-Movement - Movement is done by using the WASD keys and will move you up, left, down, and right respectively. Pressing right click will allow the player to do a short dash in the direction they are holding.
-
-Shooting - Shooting is done by pressing left click. It currently has a cap on how fast it can shoot, but it can shoot fairly fast. 
-
-Pausing - Pausing can be done by hitting the Escape key. This will bring up the pause menu where you can resume, go back to the main menu, or quit out of the application. 
-
 
 ### Storyboard
 
